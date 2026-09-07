@@ -1,0 +1,6 @@
+.env
+.env.*
+*.db
+*.db-*
+__pycache__/
+local-accounts*
